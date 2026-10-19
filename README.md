@@ -71,6 +71,12 @@ streamlit run app.py
 - Deploy the application publicly.
 - Add confidence scores for predictions.
 
+  ## 🚀 Live Demo
+
+Try the deployed News Category & Topic Classifier here:
+
+**[Open Live App](https://news-category-topic-classifier-apurvi.streamlit.app/)**
+
 ## 👩‍💻 Author
 **Apurvi Shukla**
 
